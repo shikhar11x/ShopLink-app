@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Home"
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/shop"
+        android:iconTint="#FD7F2C"
+        />
+    <item android:title="Cart"
+        android:id="@+id/cartFragment"
+        android:icon="@drawable/basket_alt_3"
+        android:iconTint="#FD7F2C"
+        />
+    <item android:title="Search"
+        android:id="@+id/searchFragment"
+        android:icon="@drawable/search_alt_fill"
+        android:iconTint="#FD7F2C"
+
+
+        />
+    <item android:title="History"
+        android:id="@+id/historyFragment"
+        android:icon="@drawable/list"
+        android:iconTint="#FD7F2C"
+
+
+        />
+    <item android:title="Profile"
+        android:id="@+id/profileFragment"
+        android:icon="@drawable/profile"
+        android:iconTint="#FD7F2C"
+
+
+        />
+</menu>

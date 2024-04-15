@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "408892629268",
+    "firebase_url": "https://shoplink-overthinker-default-rtdb.firebaseio.com",
+    "project_id": "shoplink-overthinker",
+    "storage_bucket": "shoplink-overthinker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408892629268:android:cdf511bcd8fc4bfdf3a201",
+        "android_client_info": {
+          "package_name": "com.blaze.shoplink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408892629268-bg03ubpaoo1b1traqndaeum7ihtb8k09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8-1YfajFVD_-nFVjoUjvusBG4akgLKi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408892629268-bg03ubpaoo1b1traqndaeum7ihtb8k09.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408892629268:android:38a0d5273442613bf3a201",
+        "android_client_info": {
+          "package_name": "com.blaze.shoplinkadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408892629268-bg03ubpaoo1b1traqndaeum7ihtb8k09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8-1YfajFVD_-nFVjoUjvusBG4akgLKi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408892629268-bg03ubpaoo1b1traqndaeum7ihtb8k09.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
